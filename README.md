@@ -79,7 +79,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,bash,bootstrap,codepen,css,express,firebase,github,html,ai,js,linux,mongodb,nodejs&perline=8" />
+    <img src="https://skillicons.dev/icons?i=angular,bash,bootstrap,codepen,css,express,firebase,github,html,ai,js,linux,mongodb,nodejs&perline=6" />
   </a>
 </p>
 
