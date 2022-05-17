@@ -3,7 +3,7 @@
 <br>
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=qw1nx&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
+    alt="qw1nx" /> 
   </p>
 
 <br>
@@ -77,7 +77,7 @@
       height="40" /> </a> </p> -->
 
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,bash,bootstrap,codepen,css,express,firebase,github,html,ai,js,linux,mongodb,nodejs&perline=8" />
   </a>
